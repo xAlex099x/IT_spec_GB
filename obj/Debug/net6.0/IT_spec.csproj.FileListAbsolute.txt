@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\IT_spec\obj\Debug\net6.0\IT_spec.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT_spec\obj\Debug\net6.0\IT_spec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT_spec\obj\Debug\net6.0\IT_spec.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT_spec\obj\Debug\net6.0\IT_spec.AssemblyInfo.cs
+C:\Users\User\Desktop\IT_spec\obj\Debug\net6.0\IT_spec.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT_spec\bin\Debug\net6.0\IT_spec.exe
+C:\Users\User\Desktop\IT_spec\bin\Debug\net6.0\IT_spec.deps.json
+C:\Users\User\Desktop\IT_spec\bin\Debug\net6.0\IT_spec.runtimeconfig.json
+C:\Users\User\Desktop\IT_spec\bin\Debug\net6.0\IT_spec.dll
+C:\Users\User\Desktop\IT_spec\bin\Debug\net6.0\IT_spec.pdb
+C:\Users\User\Desktop\IT_spec\obj\Debug\net6.0\IT_spec.dll
+C:\Users\User\Desktop\IT_spec\obj\Debug\net6.0\refint\IT_spec.dll
+C:\Users\User\Desktop\IT_spec\obj\Debug\net6.0\IT_spec.pdb
+C:\Users\User\Desktop\IT_spec\obj\Debug\net6.0\IT_spec.genruntimeconfig.cache
+C:\Users\User\Desktop\IT_spec\obj\Debug\net6.0\ref\IT_spec.dll
